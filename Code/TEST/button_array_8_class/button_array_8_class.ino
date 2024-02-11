@@ -1,5 +1,7 @@
 /*
- * This example will register long button press
+ * This example shows how to encapsulate codes in a class.
+ * Created by: Wahidul Islam Rahim
+ * https://github.com/wirahim
  * 
  */
 #include "button_class.h"
